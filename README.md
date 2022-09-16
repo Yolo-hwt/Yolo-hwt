@@ -10,8 +10,46 @@
 # ![:octocat:](https://cdn.jsdelivr.net/gh/Yolo-hwt/PicGo-res/images/github-profile/octocat.png)I code with
 
 <div align=center>
-    <pic src="https://img.shields.io/badge/%E5%B0%8F%E5%AE%89-%E7%82%B9%E5%87%BB%E5%85%B3%E6%B3%A8%E6%88%91%E5%97%B7-yellowgreen"></pic>
+<img src="https://img.shields.io/badge/vscode-black?logo=Visual Studio Code&logoColor=blue&style=flat"width=100 height=25></img>
+<img src="https://img.shields.io/badge/IDEA-lightgray?logo=IntelliJ IDEA&logoColor=black&style=flat"width=100 height=25></img>
+<img src="https://img.shields.io/badge/Chrome-black?logo=Google Chrome&logoColor=blue&style=flat"width=100 height=25></img>
+<img src="https://img.shields.io/badge/Github-white?logo=Github&logoColor=black&style=flat"width=100 height=25></img>
 </div>
+
 ![效果图](https://img.shields.io/badge/小安-点击关注我嗷-yellowgreen)
+
+
+<div align=center>
+<img src="https://img.shields.io/badge/HTML5-red?logo=HTML5&logoColor=white&style=flat"width=100 height=25></img>
+<img src="https://img.shields.io/badge/CSS3-blue?logo=CSS3&logoColor=white&style=flat"width=100 height=25></img>
+<img src="https://img.shields.io/badge/JavaScript-yellow?logo=JavaScript&logoColor=white&style=flat"width=130 height=25></img>
+<img src="https://img.shields.io/badge/Node.js-black?logo=Node.js&logoColor=green&style=flat"width=110 height=25></img>
+</div>
+
+
+<div align=center>
+<img src="https://img.shields.io/badge/Vue.js-black?logo=Vue.js&logoColor=green&style=flat"width=100 height=25></img>
+</div>
+
+
+<div align=center>
+<img src="https://img.shields.io/badge/Webpack-blue?logo=Webpack&logoColor=lightblue&style=flat"width=120 height=25></img>
+<img src="https://img.shields.io/badge/Git-black?logo=Git&logoColor=red&style=flat"width=80 height=25></img>
+</div>
+
+
+<div align=center>
+<img src="https://img.shields.io/badge/D3.js-black?logo=D3.js&logoColor=orange&style=flat"width=100 height=25></img>
+<img src="https://img.shields.io/badge/Echarts-black?logo=Apache ECharts&logoColor=blue&style=flat"width=100 height=25></img>
+</div>
+
+
+
+
+
+
+
+
+
 
 
