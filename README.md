@@ -35,7 +35,8 @@
 <img src="https://img.shields.io/badge/D3.js-black?logo=D3.js&logoColor=orange&style=flat"width=80 height=22></img>
 <img src="https://img.shields.io/badge/Echarts-black?logo=Apache ECharts&logoColor=blue&style=flat"width=80 height=22></img>
 </div>
-# Top Languages 🥇
+
+# 🥇 Top Languages 
 
 <div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yolo-hwt&layout=compact"></img>
