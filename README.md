@@ -7,7 +7,7 @@
 - 📫 **How to reach me**: e-mail (wentao31@foxmail.com) 
 - ⚡ **Unbelievable fact**: My first words were "emm...". (I had no idea)
 
-# ![:octocat:](https://cdn.jsdelivr.net/gh/Yolo-hwt/PicGo-res/images/github-profile/octocat.png)I code with
+# ![:octocat:](https://cdn.jsdelivr.net/gh/Yolo-hwt/PicGo-res/images/github-profile/octocat.png) I code with
 
 <div align=center>
 <img src="https://img.shields.io/badge/vscode-black?logo=Visual Studio Code&logoColor=blue&style=flat"width=80 height=22></img>
@@ -35,3 +35,6 @@
 <img src="https://img.shields.io/badge/D3.js-black?logo=D3.js&logoColor=orange&style=flat"width=80 height=22></img>
 <img src="https://img.shields.io/badge/Echarts-black?logo=Apache ECharts&logoColor=blue&style=flat"width=80 height=22></img>
 </div>
+#  🥇 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yolo-hwt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
