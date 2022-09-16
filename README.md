@@ -7,6 +7,4 @@
 - 📫 **How to reach me**: e-mail (wentao31@foxmail.com) 
 - ⚡ **Unbelievable fact**: My first words were "emm...". (I had no idea)
 
-![:octocat:](README.assets/octocat.png)
-
-![](README.assets/MedusaSorcerer.svg+xml)
+![:octocat:](https://cdn.jsdelivr.net/gh/Yolo-hwt/PicGo-res/images/github-profile/octocat.png)
