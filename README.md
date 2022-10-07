@@ -7,7 +7,7 @@
 - 📫 **How to reach me**: e-mail (wentao31@foxmail.com) 
 - ⚡ **Unbelievable fact**: My first words were "emm...". (I had no idea)
 
-# ![:octocat:](https://cdn.jsdelivr.net/gh/Yolo-hwt/PicGo-res/images/github-profile/octocat.png) I code with
+# 🛴 I code with
 
 <div align=center>
 <img src="https://img.shields.io/badge/vscode-black?logo=Visual Studio Code&logoColor=blue&style=flat"width=60 height=18></img>
@@ -42,4 +42,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yolo-hwt&layout=compact"></img>
 <div align=center>
 </div>
-
